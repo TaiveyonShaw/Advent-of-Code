@@ -1,9 +1,9 @@
 import java.io.*;
 import java.util.*;
 
-public class day4 {
+public class day4_2 {
     public static void main(String[] args) throws Exception {
-        
+
          // initialize variables
         File file = new File("input.txt");
         Scanner myReader = new Scanner(file);
@@ -29,7 +29,10 @@ public class day4 {
             int ssecond = Integer.parseInt(secondhalf.substring(secondhalf.indexOf("-")+1, secondhalf.length()));
             
             // Check if first half is within second half and vice versa
-            if ((first <= sfirst && second >= ssecond) || (first >= sfirst && second <= ssecond)) {
+            if ((first <= sfirst && second >= ssecond) 
+            || (first >= sfirst && second <= ssecond) 
+            || (first <= sfirst && second <= sfirst)
+            || (first <= ssecond && second <= ssecond)) {
                 iter++;
             }
         }
