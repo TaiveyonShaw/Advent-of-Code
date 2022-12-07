@@ -14,11 +14,10 @@ public class day4 {
 
             // Initialize variables
             String data = myReader.nextLine();
-            int comma = data.indexOf(",");
 
             // Split data into two
-            String firsthalf = data.substring(0, comma);
-            String secondhalf = data.substring(comma+1, data.length());
+            String firsthalf = data.substring(0, data.indexOf(","));
+            String secondhalf = data.substring(data.indexOf(",")+1, data.length());
 
             // Get first and second values from first half
             int first = Integer.parseInt(firsthalf.substring(0, firsthalf.indexOf("-")));
