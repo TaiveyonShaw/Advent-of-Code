@@ -29,14 +29,14 @@ public class day4_2 {
             int ssecond = Integer.parseInt(secondhalf.substring(secondhalf.indexOf("-")+1, secondhalf.length()));
             
             // Check if first half is within second half and vice versa
-            if ((first <= sfirst && second >= ssecond) 
-            || (first >= sfirst && second <= ssecond) 
-            || (first <= sfirst && second <= sfirst)
-            || (first <= ssecond && second <= ssecond)) {
+            if ((first <= sfirst && sfirst <= second) 
+            || (first <= ssecond && ssecond <= second) 
+            || (sfirst <= first && first <= ssecond)
+            || (sfirst <= second && second <= ssecond)) {
                 iter++;
             }
         }
-
+        
         // Print
         System.out.println(iter);
     }
