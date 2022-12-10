@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class day5 {
+public class day5_2 {
     public static void main(String[] args) throws Exception {
             
         // initialize variables
@@ -9,6 +9,7 @@ public class day5 {
         Scanner myReader = new Scanner(file);
         Deque<Character> deque = new ArrayDeque<>();
         HashMap<Integer, Deque<Character>> map = new HashMap<>();
+        Stack<Character> stack = new Stack<>();
         String result = "";
         int iter = 1;
 
@@ -50,6 +51,10 @@ public class day5 {
             // Move crates
             for (int i = 0; i < amount; i++) {
                 char curr = map.get(movefrom).removeFirst();
+                stack.push(curr);
+            }
+            for (int i = 0; i < amount; i++) {
+                char curr = stack.pop();
                 map.get(moveto).addFirst(curr);
             }
         }
