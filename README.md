@@ -58,12 +58,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+
 </details >
 
 <details>
@@ -94,12 +89,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+  
 </details >
 
 <details>
@@ -130,12 +120,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+      
 </details>
 
 <details>
@@ -166,12 +151,6 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
 
 </details>
 
@@ -203,12 +182,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+
 </details>
 
 <details >
@@ -239,12 +213,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+  
 </details>
 
 <details>
@@ -275,18 +244,13 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+
 </details>
 
 <details>
 <summary>2022 Solutions</summary>
   
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
@@ -311,12 +275,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+  
 </details>
 
 <details>
@@ -347,10 +306,5 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
-- [ ] Day 31
+      
 </details>
