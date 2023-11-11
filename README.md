@@ -30,7 +30,8 @@ $ java filename
 ## Checklist
 Below are just some checklist for me to see what I have finished :)
 
-<2015 Solutions>
+<details >
+<summary>2015 Solutions</summary>
 - [ ] Day 1
 - [ ] Day 2
 - [ ] Day 3
@@ -61,7 +62,8 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 28
 - [ ] Day 29
 - [ ] Day 30
-<2015 Solutions />
+- [ ] Day 31
+<details/>
 
 <2016 Solutions>
 
