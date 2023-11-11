@@ -30,7 +30,7 @@ $ java filename
 ## Checklist
 Below are just some checklist for me to see what I have finished :)
 
-<details open>
+<details>
 <summary>2015 Solutions</summary>
   
 - [ ] Day 1
@@ -66,7 +66,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 31
 </details >
 
-<details open>
+<details>
 <summary>2016 Solutions</summary>
   
 - [ ] Day 1
@@ -102,7 +102,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 31
 </details >
 
-<details open>
+<details>
 <summary>2017 Solutions</summary>
   
 - [ ] Day 1
@@ -138,7 +138,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 31
 </details>
 
-<details >
+<details>
 <summary>2018 Solutions</summary>
   
 - [ ] Day 1
@@ -175,7 +175,7 @@ Below are just some checklist for me to see what I have finished :)
 
 </details>
 
-<details >
+<details>
 <summary>2019 Solutions</summary>
   
 - [ ] Day 1
@@ -247,7 +247,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 31
 </details>
 
-<details >
+<details>
 <summary>2021 Solutions</summary>
   
 - [ ] Day 1
@@ -283,7 +283,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 31
 </details>
 
-<details >
+<details>
 <summary>2022 Solutions</summary>
   
 - [ ] Day 1
@@ -319,7 +319,7 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 31
 </details>
 
-<details >
+<details>
 <summary>2023 Solutions</summary>
   
 - [ ] Day 1
