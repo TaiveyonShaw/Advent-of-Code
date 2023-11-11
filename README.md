@@ -17,14 +17,14 @@ Installation and starting the problem will vary from person to person. There is 
 #### Example:
 If we take a look at some of my solution, I solved the solution using java. In order to run java, you would first,
 
-###### Compile the file by running:
+##### Compile the file by running:
 ```
-javac filename.java
+$ javac filename.java
 ```
 
 ##### Then run the compiled file by running:
 ```
-java filename
+$ java filename
 ```
 
 ## Countdown
