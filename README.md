@@ -12,7 +12,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - Visit: https://adventofcode.com/2023/about
 
 ## Installation
-Installation and starting the problem will vary from person to person. There is no one language that someone uses therefore anyone can use any language and compile and run the answer file.
+Installation and starting the problem will vary from person to person. There is no one language that someone has to uses therefore anyone can use any language and compile and run the answer file.
 
 #### Example:
 If we take a look at some of my solution, I solved the solution using java. In order to run java, you would first,
