@@ -32,6 +32,7 @@ Below are just some checklist for me to see what I have finished :)
 
 <details >
 <summary>2015 Solutions</summary>
+  
 - [ ] Day 1
 - [ ] Day 2
 - [ ] Day 3
