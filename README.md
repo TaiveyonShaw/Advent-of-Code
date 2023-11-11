@@ -66,5 +66,297 @@ Below are just some checklist for me to see what I have finished :)
 - [ ] Day 31
 <details/>
 
-<2016 Solutions>
+<details >
+<summary>2016 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
 
+
+<details >
+<summary>2017 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
+
+
+<details >
+<summary>2018 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
+
+
+<details >
+<summary>2019 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
+
+
+<details >
+<summary>2020 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
+
+
+<details >
+<summary>2021 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
+
+
+<details >
+<summary>2022 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
+
+
+<details >
+<summary>2023 Solutions</summary>
+  
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+- [ ] Day 31
+<details/>
